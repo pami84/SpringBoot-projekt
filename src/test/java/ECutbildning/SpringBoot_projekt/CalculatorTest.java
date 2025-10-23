@@ -15,6 +15,7 @@ class CalculatorTest {
         //Act
         int result = calc.add(1,3);
 
+        //Assert
         assertEquals(4, result);
     }
 
@@ -26,6 +27,7 @@ class CalculatorTest {
         //Act
         int result = calc.subtract(3,2);
 
+        //Assert
         assertEquals(1, result);
     }
 
@@ -37,6 +39,7 @@ class CalculatorTest {
         //Act
         int result = calc.multiply(5,5);
 
+        //Assert
         assertEquals(25, result);
     }
 
