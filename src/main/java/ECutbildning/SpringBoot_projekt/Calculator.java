@@ -34,4 +34,4 @@ public class Calculator {
     }
 }
 
-// Lägger till en kommentar
+// Lägger till en kommentar.
